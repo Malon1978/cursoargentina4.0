@@ -1,13 +1,14 @@
 *{
     box-sizing: border-box;
-    margin: 5px;
     padding: 5px;
 }
 div{
-    background-color:beige;
+    background-color:bisque;
+    border-radius: 5px;
+    margin: 10px;
 
 }
 nav{
-    background-color:darkgrey;
-    
+    background-color:floralwhite;
+    font-family: 'Segoe UI';
 }
