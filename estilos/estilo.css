@@ -3,12 +3,33 @@
     padding: 5px;
 }
 div{
+    font-family:sans-serif;
     background-color:bisque;
     border-radius: 5px;
     margin: 10px;
 
 }
+#info-detalle{
+    display:none ;
+}
+#info-descripcion{
+    display: none;
+}
+#info-experiencia{
+    display:none;
+}
+#info-habilidades{
+    display: none;
+}
 nav{
     background-color:floralwhite;
     font-family: 'Segoe UI';
+}
+button{
+    color: black;
+    border: 2px solid #555555
+}
+button:hover{
+    background-color: #555555;
+    color: white
 }
